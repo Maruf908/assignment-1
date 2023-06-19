@@ -115,3 +115,26 @@ body{
     padding-right: 15px; 
     font-size: 20px;
 }
+.seven-section{
+    display: flex;
+    justify-content: center;
+    margin-top: 100px;
+} 
+.half{
+    width: 40%;
+    margin-right: 2%; 
+    margin-left: 2%;
+} 
+.half img{
+    width: 100%; 
+    border-radius: 5px;
+}
+.btn{
+    text-decoration: none; 
+    background-color: rgb(246, 57, 24);
+    padding: 20px 40px; 
+    color: white;
+    font-weight: 700;
+    font-size: 20px;
+    border-radius: 10px;
+}
